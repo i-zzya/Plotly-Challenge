@@ -1,0 +1,17 @@
+body {
+    color: black;
+    background-color: #ced6e1
+}
+
+.jumbotron {
+  background-image: url("bacteria_image.jpg");
+  background-size: 100% 100%;
+  text-align: center;
+  color: #94c1d9
+}
+
+.navigationBar {
+  background-color: rgb(0, 0, 0);
+  color: #4d97bf;
+  text-align: center;
+}
